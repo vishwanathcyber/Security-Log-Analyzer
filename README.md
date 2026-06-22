@@ -1,7 +1,7 @@
 # Security-Log-Analyzer
 A Python-based cybersecurity tool that analyzes log files and detects suspicious events such as failed logins,invalid credentials, and system errors.
 
-##Features
+## Features
 
 - Log file parsing
 - Suspicious activity detection
