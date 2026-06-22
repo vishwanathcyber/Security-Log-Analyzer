@@ -1,0 +1,6 @@
+User admin login successful
+Failed login attempt from 192.168.1.10
+Error: Invalid password
+User guest login successful
+Failed login attempt from 10.0.0.5
+Connection established
